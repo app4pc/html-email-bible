@@ -9,6 +9,7 @@ so today we are here to provide several strategy and example for how to create H
 Gmail, Outlook, Yahoo, Hotmail, Outlook, Zohomail etc.
 
 ** Keys to know before working html email template **
+
 	*- always follow table layout to look decent on cross platform.*
 	*- media query and too much HTML tags and CSS are are not supported cross platform. So better to go for tested HTML/CSS tags.*
 	*- try to use inline CSS.*
@@ -17,6 +18,7 @@ Gmail, Outlook, Yahoo, Hotmail, Outlook, Zohomail etc.
 **Some Tested example are as follows**
 	
 # normal email.
+
 # normal+imaged email
 # Borderd email.
 # A4 email.
