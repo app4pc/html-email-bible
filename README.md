@@ -19,7 +19,7 @@ Gmail, Outlook, Yahoo, Hotmail, Outlook, Zohomail etc.
 **Some Tested example are as follows**
 	
 # Normal email.
-   ![ScreenShot](http://app4pc.com/static/images/app4pc.png)
+   ![Settings Window](http://app4pc.com/static/images/app4pc.png)
    
 # Normal + Imaged email
 
