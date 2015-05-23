@@ -1,5 +1,5 @@
 # html-email-bible
-all about responsive/non-responsive html email templates with example, including email service provider e.g. Gmail, Outlook, Yahoo, Hotmail, Radiffmail, Zohomail.
+all about responsive/non-responsive html email templates with example, Tested on email service provider like Gmail, Outlook, Yahoo, Hotmail, Radiffmail, Zohomail.
 
 # Introduction 
 
@@ -19,10 +19,8 @@ Gmail, Outlook, Yahoo, Hotmail, Outlook, Zohomail etc.
 **Some Tested example are as follows**
 	
 # Normal email.
-.. image:: http://app4pc.com/static/images/app4pc.png
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
+   ![ScreenShot](http://app4pc.com/static/images/app4pc.png)
+   
 # Normal + Imaged email
 
 # Bordered email.
