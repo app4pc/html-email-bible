@@ -19,13 +19,13 @@ Gmail, Outlook, Yahoo, Hotmail, Outlook, Zohomail etc.
 **Some Tested example are as follows**
 	
 # Normal email.
-   ![Settings Window](http://app4pc.com/static/images/app4pc.png)
+   ![Settings Window](scrnshot/app4pc.png)
    
 # Normal + Imaged email
-
+![Settings Window](scrnshot/app4pc.png)
 # Bordered email.
-
+![Settings Window](scrnshot/app4pc.png)
 # A4 email.
-
+![Settings Window](scrnshot/app4pc.png)
 # Email with responsive nature.
-
+![Settings Window](scrnshot/app4pc.png)
