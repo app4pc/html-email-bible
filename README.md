@@ -22,10 +22,11 @@ Gmail, Outlook, Yahoo, Hotmail, Outlook, Zohomail etc.
    ![Settings Window](scrnshot/app4pc.png)
    
 # Normal + Imaged email
+![Alt text](https://github.com/app4pc/html-email-bible/scrnshot/app4pc.png?raw=true "Optional Title")
 ![Settings Window](scrnshot/app4pc.png)
 # Bordered email.
-![Settings Window](scrnshot/app4pc.png)
+![Alt text](https://github.com/app4pc/html-email-bible/scrnshot/app4pc.png?raw=true "Optional Title")
 # A4 email.
-![Settings Window](scrnshot/app4pc.png)
+![Alt text](https://github.com/app4pc/html-email-bible/scrnshot/app4pc.png?raw=true "Optional Title")
 # Email with responsive nature.
-![Settings Window](scrnshot/app4pc.png)
+![Alt text](https://github.com/app4pc/html-email-bible/scrnshot/app4pc.png?raw=true "Optional Title")
