@@ -25,12 +25,12 @@ Gmail, Yahoo, Hotmail, Rediffmail, Outlook, Zohomail etc.
 **Some Tested example are as follows**
 	
 # Normal email.
-    ![Sample Email](http://103.48.108.35:5001/static/scrnshot/1.jpg "visit us at www.app4pc.com")
+    ![Sample Email](http://103.48.108.35:5001/static/scrnshot/1.png "visit us at www.app4pc.com")
 # Normal + Imaged email
-	![Sample Email](http://103.48.108.35:5001/static/scrnshot/1.jpg "visit us at www.app4pc.com")
+	![Sample Email](http://103.48.108.35:5001/static/scrnshot/1.png "visit us at www.app4pc.com")
 # Bordered email.
-	![Sample Email](http://103.48.108.35:5001/static/scrnshot/1.jpg "visit us at www.app4pc.com")
+	![Sample Email](http://103.48.108.35:5001/static/scrnshot/1.png "visit us at www.app4pc.com")
 # A4 email.
-	![Sample Email](http://103.48.108.35:5001/static/scrnshot/1.jpg "visit us at www.app4pc.com")
+	![Sample Email](http://103.48.108.35:5001/static/scrnshot/1.png "visit us at www.app4pc.com")
 # Email with responsive nature.
-	![Sample Email](http://103.48.108.35:5001/static/scrnshot/1.jpg "visit us at www.app4pc.com")
+	![Sample Email](http://103.48.108.35:5001/static/scrnshot/1.png "visit us at www.app4pc.com")
