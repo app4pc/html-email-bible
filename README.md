@@ -24,17 +24,17 @@ Gmail, Yahoo, Hotmail, Rediffmail, Outlook, Zohomail etc.
 	
 **Some Tested example are as follows**
 	
-# Normal email.
-![Sample Email](http://www.awwwards.com/awards/images/2013/09/18.jpg "visit us at www.app4pc.com")
+# Chapter 1.
+![http://app4pc.com/static/scrnshot/1.png](http://103.48.108.35:5001/static/scrnshot/1.png "visit us at www.app4pc.com")
 
-# Normal + Imaged email
-![Sample Email](http://103.48.108.35:5001/static/scrnshot/1.png)
+# Chapter 2
+![http://app4pc.com/static/scrnshot/1.png](http://103.48.108.35:5001/static/scrnshot/2.png "visit us at www.app4pc.com")
 
-# Bordered email.
-![Sample Email](scrnshot/1.png "visit us at www.app4pc.com")
+# Chapter 3
+![http://app4pc.com/static/scrnshot/1.png](http://103.48.108.35:5001/static/scrnshot/3.png "visit us at www.app4pc.com")
 
-# A4 email.
-![Sample Email](../scrnshot/1.png "visit us at www.app4pc.com")
+# Chapter 4
+![http://app4pc.com/static/scrnshot/1.png](http://103.48.108.35:5001/static/scrnshot/4.png "visit us at www.app4pc.com")
 
-# Email with responsive nature.
-![Sample Email](http://103.48.108.35:5001/static/scrnshot/1.png "visit us at www.app4pc.com")
+# Chapter 5
+![http://app4pc.com/static/scrnshot/1.png](http://103.48.108.35:5001/static/scrnshot/5.png "visit us at www.app4pc.com")
