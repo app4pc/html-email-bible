@@ -26,11 +26,11 @@ Gmail, Yahoo, Hotmail, Rediffmail, Outlook, Zohomail etc.
 	
 # Normal email.
 
-    ![Sample Email](http://app4pc.com/static/scrnshot/1.png "visit us at www.app4pc.com")
+    ![Sample Email](http://www.awwwards.com/awards/images/2013/09/18.jpg "visit us at www.app4pc.com")
 
 # Normal + Imaged email
 
-	![Sample Email](http://www.app4pc.com/static/scrnshot/1.png "visit us at www.app4pc.com")
+	![Sample Email](http://103.48.108.35:5001/static/scrnshot/1.png)
 
 # Bordered email.
 
