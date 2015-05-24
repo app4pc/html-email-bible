@@ -22,7 +22,7 @@ Gmail, Outlook, Yahoo, Hotmail, Outlook, Zohomail etc.
    ![Sample image](http://103.48.108.35:5001/static/images/bg.jpg "visit app4pc.com")
    
 # Normal + Imaged email
-![Sample image](http://103.48.108.35:5001/static/images/bg.jpg?raw=true "visit app4pc.com")
+![Sample image](http://app4pc.com/static/images/bg.jpg?raw=true "visit app4pc.com")
 ![Settings Window](scrnshot/app4pc.png)
 # Bordered email.
 ![ScreenShot](/scrnshot/app4pc.png)
