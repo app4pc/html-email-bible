@@ -19,14 +19,14 @@ Gmail, Outlook, Yahoo, Hotmail, Outlook, Zohomail etc.
 **Some Tested example are as follows**
 	
 # Normal email.
-   ![Sample image](https://github.com/app4pc/html-email-bible/scrnshot/app4pc.png?raw=true "visit app4pc.com")
+   ![Sample image](http://103.48.108.35:5001/static/images/bg.jpg "visit app4pc.com")
    
 # Normal + Imaged email
-![Sample image](https://github.com/app4pc/html-email-bible/scrnshot/app4pc.png?raw=true "visit app4pc.com")
+![Sample image](http://103.48.108.35:5001/static/images/bg.jpg?raw=true "visit app4pc.com")
 ![Settings Window](scrnshot/app4pc.png)
 # Bordered email.
 ![ScreenShot](/scrnshot/app4pc.png)
 # A4 email.
-![Alt text](https://github.com/app4pc/html-email-bible/scrnshot/app4pc.png?raw=true "Optional Title")
+![Alt text](http://app4pc.com/static/images/bg.jpg "Optional Title")
 # Email with responsive nature.
 ![Alt text](https://github.com/app4pc/html-email-bible/scrnshot/app4pc.png?raw=true "Optional Title")
