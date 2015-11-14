@@ -25,16 +25,16 @@ Gmail, Yahoo, Hotmail, Rediffmail, Outlook, Zohomail etc.
 **Some Tested example are as follows**
 	
 # Chapter 1
-![http://app4pc.com/static/scrnshot/1.png](http://103.48.108.35:5001/static/scrnshot/1.png "visit us at www.app4pc.com")
+![http://app4pc.com/static/scrnshot/1.png](http://app4pc.com/static/scrnshot/1.png "visit us at www.app4pc.com")
 
 # Chapter 2
-![http://app4pc.com/static/scrnshot/1.png](http://103.48.108.35:5001/static/scrnshot/2.png "visit us at www.app4pc.com")
+![http://app4pc.com/static/scrnshot/1.png](http://app4pc.com/static/scrnshot/2.png "visit us at www.app4pc.com")
 
 # Chapter 3
-![http://app4pc.com/static/scrnshot/1.png](http://103.48.108.35:5001/static/scrnshot/3.png "visit us at www.app4pc.com")
+![http://app4pc.com/static/scrnshot/1.png](http://app4pc.com/static/scrnshot/3.png "visit us at www.app4pc.com")
 
 # Chapter 4
-![http://app4pc.com/static/scrnshot/1.png](http://103.48.108.35:5001/static/scrnshot/4.png "visit us at www.app4pc.com")
+![http://app4pc.com/static/scrnshot/1.png](http://app4pc.com/static/scrnshot/4.png "visit us at www.app4pc.com")
 
 # Chapter 5{ How to put Responsive Nature}
-![http://app4pc.com/static/scrnshot/1.png](http://103.48.108.35:5001/static/scrnshot/5.png "visit us at www.app4pc.com")
+![http://app4pc.com/static/scrnshot/1.png](http://app4pc.com/static/scrnshot/5.png "visit us at www.app4pc.com")
